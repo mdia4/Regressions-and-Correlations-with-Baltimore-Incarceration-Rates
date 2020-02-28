@@ -36,8 +36,8 @@ Choose to spend the allocated funds towards a widespread planned parenthood prog
 5. I finally made a line graph to show the different peaks based on each region. I used a secondary axis to adequately map household income. 
 
 **Excel Files**
-https://github.com/mdia4/Regressions-and-Correlations-with-Baltimore-Incarceration-Rates/blob/master/Mini%20Project%202.xlsx
-https://github.com/mdia4/Regressions-and-Correlations-with-Baltimore-Incarceration-Rates/blob/master/Baltimore%20Employment%20rates.xls
-https://github.com/mdia4/Regressions-and-Correlations-with-Baltimore-Incarceration-Rates/blob/master/Household%20income%20baltimore.xls
-https://github.com/mdia4/Regressions-and-Correlations-with-Baltimore-Incarceration-Rates/blob/master/Baltimore%20Incarceration%20project%202.xls
-https://github.com/mdia4/Regressions-and-Correlations-with-Baltimore-Incarceration-Rates/blob/master/Teengage%20Birthrates%20Baltimore.xls
+- https://github.com/mdia4/Regressions-and-Correlations-with-Baltimore-Incarceration-Rates/blob/master/Mini%20Project%202.xlsx
+- https://github.com/mdia4/Regressions-and-Correlations-with-Baltimore-Incarceration-Rates/blob/master/Baltimore%20Employment%20rates.xls
+- https://github.com/mdia4/Regressions-and-Correlations-with-Baltimore-Incarceration-Rates/blob/master/Household%20income%20baltimore.xls
+- https://github.com/mdia4/Regressions-and-Correlations-with-Baltimore-Incarceration-Rates/blob/master/Baltimore%20Incarceration%20project%202.xls
+- https://github.com/mdia4/Regressions-and-Correlations-with-Baltimore-Incarceration-Rates/blob/master/Teengage%20Birthrates%20Baltimore.xls
